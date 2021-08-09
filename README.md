@@ -1,0 +1,2 @@
+# LuckyNumbers
+Lucky numbers generator
